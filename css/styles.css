@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.btn-primary, .btn-success, .btn-warning, .btn-secondary {
+    border-radius: 0;
+}
+
+.alert a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+.alert a:hover {
+    text-decoration: underline;
+}
+
+.edited-post {
+    border: 2px solid #ffc107;
+}
